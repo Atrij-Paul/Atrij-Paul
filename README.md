@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F22f42c11b612b041b4038573dca18a2d%2Ftenor.gif&f=1&nofb=1&ipt=52c7ca13d9115c930a1f80a41055006990a2e9149f503c7b9f500271b2cc6631&ipo=images" align = "center" width = "50"</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atrij paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atrij paul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atrij-paul-9a23a6223/l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atrij paul" height="30" width="40" /></a>
 <a href="https://fb.com/atrij paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atrij paul" height="30" width="40" /></a>
 <a href="https://instagram.com/atrij9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atrij9" height="30" width="40" /></a>
 </p>
